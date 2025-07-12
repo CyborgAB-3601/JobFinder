@@ -32,16 +32,16 @@ const AboutUsPage: React.FC = () => {
               fontSize: '48px',
               fontWeight: 'bold'
             }}>
-              SP
+              SA
             </div>
             <h2 style={{ color: '#ffd700', fontSize: 32, marginBottom: '0.5rem' }}>
-              Supriya P
+              S.ABHINAV
             </h2>
             <p style={{ color: '#b3baff', fontSize: 18, marginBottom: '1rem' }}>
               Full Stack Developer & AI Enthusiast
             </p>
             <p style={{ color: '#4ade80', fontSize: 16, fontWeight: 600 }}>
-              SRM Institute of Science and Technology, Chennai
+              Presidency University
             </p>
           </div>
           
@@ -49,7 +49,7 @@ const AboutUsPage: React.FC = () => {
             <div style={{ background: '#1a0933', borderRadius: 8, padding: '1.5rem' }}>
               <h3 style={{ color: '#4e5cf7', fontSize: 18, marginBottom: '0.5rem' }}>🎓 Education</h3>
               <p style={{ color: '#b3baff', fontSize: 14, lineHeight: 1.6 }}>
-                Currently pursuing studies at SRM Institute of Science and Technology in Chennai, 
+                Currently pursuing studies at Presidency University, 
                 focusing on computer science and software development. Passionate about creating 
                 innovative solutions that make a difference.
               </p>
@@ -68,7 +68,7 @@ const AboutUsPage: React.FC = () => {
               <h3 style={{ color: '#4e5cf7', fontSize: 18, marginBottom: '0.5rem' }}>🔗 Connect</h3>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
                 <a 
-                  href="https://github.com/supr-pall" 
+                  href="https://github.com/CyborgAB-3601" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   style={{
@@ -81,7 +81,7 @@ const AboutUsPage: React.FC = () => {
                   }}
                 >
                   <span style={{ fontSize: '18px' }}>📁</span>
-                  GitHub: supr-pall
+                  GitHub: CyborgAB-3601
                 </a>
                 <p style={{ color: '#b3baff', fontSize: 12, marginTop: '0.5rem' }}>
                   Check out my projects and contributions
@@ -199,7 +199,7 @@ const AboutUsPage: React.FC = () => {
             <div style={{ background: '#1a0933', borderRadius: 8, padding: '1.5rem' }}>
               <h3 style={{ color: '#4e5cf7', fontSize: 18, marginBottom: '0.5rem' }}>💼 Portfolio</h3>
               <a 
-                href="https://github.com/supr-pall" 
+                href="https://github.com/CyborgAB-3601" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 style={{
@@ -219,10 +219,10 @@ const AboutUsPage: React.FC = () => {
             <div style={{ background: '#1a0933', borderRadius: 8, padding: '1.5rem' }}>
               <h3 style={{ color: '#4e5cf7', fontSize: 18, marginBottom: '0.5rem' }}>🎓 Education</h3>
               <p style={{ color: '#b3baff', fontSize: 16, fontWeight: 600 }}>
-                SRM Institute of Science and Technology
+                Presidency University
               </p>
               <p style={{ color: '#b3baff', fontSize: 14 }}>
-                Chennai, India
+                India
               </p>
             </div>
           </div>
